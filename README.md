@@ -1,2 +1,3 @@
 # QA-automation
-Automation of flex tech web website 
+Automation of Flex tech web website 
+The website is based on a monthly subscription.
